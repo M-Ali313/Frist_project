@@ -9,6 +9,16 @@ header{
     color: aqua;
     background: goldenrod;
 }
+.btn{
+    background: greenyellow;
+    border-radius: 10px;
+    color: black;
+    
+}
+.btn:hover{
+    background: greenyellow;
+    color: black;
+}
 body{
     background: pink;
     
