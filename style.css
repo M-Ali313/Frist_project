@@ -18,3 +18,7 @@ footer{
     font-family: italic;
     background: greenyellow;
 }
+footer h1{
+    color: black;
+    font-size: 30vh;
+}
