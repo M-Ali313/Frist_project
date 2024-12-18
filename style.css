@@ -13,6 +13,11 @@ body{
     background: pink;
     
 }
+span{
+    font-size: 18px;
+    font-family: bold;
+    color: tomato;
+}
 footer{
     font-size: 30px;
     font-family: italic;
